@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmdatainsights&label=Profile%20views&color=0e75b6&style=flat" alt="hmdatainsights" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmdatainsights" alt="hmdatainsights" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HMDataInsights" alt="hmdatainsights" /></a> </p>
+
 
 - 📫 How to reach me **h.mahida@gmail.com**
 

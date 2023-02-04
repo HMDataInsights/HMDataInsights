@@ -1,4 +1,4 @@
-<h1 align="justify">Hi 👋, I'm Harshit Mahida</h1>
+<h2 align="justify">Hi there! Welcome to my GitHub Profile! 👋</h2>
 <h4 align="justify">As a data scientist with a strong background in Python, I have extensive experience in data analysis, visualization, and machine learning. I am highly skilled in utilizing popular libraries such as Pandas, NumPy, and Matplotlib to manipulate and analyze data sets. My proficiency in various machine learning models and techniques, including regression, classification, and clustering, allows me to effectively extract insights and make informed decisions. I am also able to effectively communicate my findings and insights through visualizations and reports. My work is always backed by a strong motivation, self-starter attitude, and a constant eagerness to learn and take on new projects and challenges in the field of data science.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmdatainsights&label=Profile%20views&color=0e75b6&style=flat" alt="hmdatainsights" /> </p>
